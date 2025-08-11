@@ -1,4 +1,4 @@
-# Biotech Software Engineer Directory – BioAI, Bioinformatics & Computational Biology Developers
+# Biotech Software Engineer Directory - BioAI, Bioinformatics & Computational Biology Developers
 
 A community-curated directory of **biotech software engineers** specializing in **BioAI, bioinformatics, computational biology, genomics, and life sciences software development** or developer who want to learn and gain experience in this field.  
 
@@ -55,7 +55,7 @@ This project is **open-source** and aims to connect the biotech and AI communiti
 
 ## Why BioAI & Bioinformatics Matter
 
-Modern biology generates enormous datasets — from DNA sequencing to protein structure predictions. **BioAI** applies **machine learning** to extract meaning from this data, accelerating:
+Modern biology generates enormous datasets - from DNA sequencing to protein structure predictions. **BioAI** applies **machine learning** to extract meaning from this data, accelerating:
 - Drug discovery
 - Genetic diagnostics
 - Synthetic biology
