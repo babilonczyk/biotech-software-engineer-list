@@ -92,7 +92,3 @@ Help us grow this network to make biotech innovation more accessible.
 ## License
 
 This repository is licensed under the [MIT License](LICENSE).
-
----
-
-![Biotech Software Engineer Directory table – BioAI, bioinformatics, computational biology developers](biotech-software-engineer-directory.png)
