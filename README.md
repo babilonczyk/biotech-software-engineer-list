@@ -1,7 +1,8 @@
 # Biotech Software Engineer Directory – BioAI, Bioinformatics & Computational Biology Developers
 
-A community-curated directory of **biotech software engineers** specializing in **BioAI, bioinformatics, computational biology, genomics, and life sciences software development**.  
-Whether you’re hiring for **research projects**, **AI in biology**, or **scientific software engineering**, this list helps you find experienced developers for collaboration or employment.
+A community-curated directory of **biotech software engineers** specializing in **BioAI, bioinformatics, computational biology, genomics, and life sciences software development** or developer who want to learn and gain experience in this field.  
+
+Whether you’re hiring for **research projects**, **AI in biology**, or **scientific software engineering**, this list helps you find developers for collaboration or employment.
 
 ---
 
